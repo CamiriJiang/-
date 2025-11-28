@@ -1,0 +1,5 @@
+{
+  "train_samples": 200000,
+  "valid_samples": 2500,
+  "test_samples": 2500
+}
